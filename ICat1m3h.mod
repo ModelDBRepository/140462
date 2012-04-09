@@ -53,7 +53,7 @@ ASSIGNED {
 }
 
 BREAKPOINT {
-	SOLVE castate METHOD euler
+	SOLVE castate METHOD cnexp
 	carev = 35
 
 :	Will assume m3h model
