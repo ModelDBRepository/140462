@@ -28,9 +28,9 @@ after a few seconds you should see a graph like:
 Alternatively Press Init & Run on the Run Control panel (might be  
 buried under other windows) to run a single pulse simulation.
 
+## Changelog
+
 20120409 iCat1m3 mechansim updated from euler to cnexp as per  
 http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
 
----
-
-2025-06-20: Converted README to Markdown.
+20250620 Converted README to Markdown.
